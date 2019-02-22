@@ -1,0 +1,20 @@
+h1 {
+  color: red; /* built in color */
+}
+h2 {
+  color: #4B0082; /* hexadecimals (# + String of 6 hexadecimal numbers[from 0-F]) */
+}
+h3 {
+  color: rgb(0,255,0); /* RGB (3 channels: Red, Green, Blue. Each ranges from 0-255 */
+}
+h4 {
+  color: rgba(10, 100, 150, .6); /* RGBA (Just like RGB, but with an alpha(transparency) channel.  Ranges from 0.0 - 1.0) */
+}
+/* You can use color to set a background */
+h5 {
+  background: #000;  /* hexadecimals (shorter version of #000000) */
+}
+/* The background property can also set a background image */
+h5 {
+  background: url(./skier.jpeg); /*  */
+}

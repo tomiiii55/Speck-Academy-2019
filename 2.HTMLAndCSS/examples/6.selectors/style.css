@@ -1,0 +1,26 @@
+/* element  */
+div {
+  color: cornsilk;
+}
+p {
+  color: darkslategray;
+}
+
+/* id */
+div {
+  background: cornsilk;
+}
+
+#continent {
+  color: red;
+}
+
+/* class */
+div {
+  background: cornsilk;
+}
+
+.city {
+  background: darkslategrey;
+  color: white;
+}
